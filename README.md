@@ -16,7 +16,7 @@ PDF를 올려서 페이지 미리보기를 보고 **합치기 · 분할 · 순�
 
 ## 🔗 라이브 데모
 
-**https://pdf-studio.vercel.app**
+**https://pdf-studio-gray.vercel.app**
 
 ## ✨ 주요 기능
 
